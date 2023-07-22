@@ -1,0 +1,170 @@
+{
+  "file_name": "Sem_8",
+  "parent_dir": "Рабочий стол",
+  "type": "dir",
+  "size": 28149,
+  "child": [
+    {
+      "file_name": "date_users.csv",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 363
+    },
+    {
+      "file_name": "date_users.json",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 463
+    },
+    {
+      "file_name": "date_users.pickle",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 297
+    },
+    {
+      "file_name": "file_task4.csv",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 361
+    },
+    {
+      "file_name": "file_task4.json",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1664
+    },
+    {
+      "file_name": "file_task4.pickle",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 661
+    },
+    {
+      "file_name": "file_task4_6.csv",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 641
+    },
+    {
+      "file_name": "home_work_task8.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 3423
+    },
+    {
+      "file_name": "name_list.txt",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 146
+    },
+    {
+      "file_name": "new_user.json",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 315
+    },
+    {
+      "file_name": "new_user.pickle",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 262
+    },
+    {
+      "file_name": "new_user_6.csv",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 0
+    },
+    {
+      "file_name": "result.csv",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 863
+    },
+    {
+      "file_name": "result.json",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 3455
+    },
+    {
+      "file_name": "result.pickle",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1030
+    },
+    {
+      "file_name": "result.txt",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 300
+    },
+    {
+      "file_name": "seminar_json.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 3279
+    },
+    {
+      "file_name": "task1.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1154
+    },
+    {
+      "file_name": "task2.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1966
+    },
+    {
+      "file_name": "task3.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 901
+    },
+    {
+      "file_name": "task4.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1635
+    },
+    {
+      "file_name": "task5.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 807
+    },
+    {
+      "file_name": "task6.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1284
+    },
+    {
+      "file_name": "task7.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 519
+    },
+    {
+      "file_name": "temp.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 1953
+    },
+    {
+      "file_name": "user_file.txt",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 148
+    },
+    {
+      "file_name": "__init__.py",
+      "parent_dir": "Sem_8",
+      "type": "file",
+      "size": 259
+    }
+  ]
+}
